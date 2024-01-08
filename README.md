@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @talhaticx
-- 👀 I’m interested in Web Development (Using GPT 🙄)
-- 🌱 I’m currently learning MERN 🔫
+- 👀 I’m interested in AI/ML (so GPT wouldn't take me down)
+- 🌱 I’m currently learning KALI 🔫
 - 💞️ I’m looking to collaborate on AnyThing DARK 🎱
 - 📫 How to reach me insta/talhaticx
 
