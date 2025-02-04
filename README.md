@@ -7,10 +7,10 @@
 - 📫 How to reach me insta/talhaticx
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaticx" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaticx&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaticx&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaticx&layout=compact&card_width=460&theme=dracula&langs_count=10" />
 </a>
 
 <!---
