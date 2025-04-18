@@ -1,14 +1,16 @@
+# 👨‍💻 Talha Ayyaz
 
+ Electrical Engineering student | Code whisperer | Bug summoner
 
-- 👋 Hi, I’m @talhaticx
-- 👀 I’m interested in AI/ML (so GPT wouldn't take me down)
-- 🌱 I’m currently learning KALI 🔫
-- 💞️ I’m looking to collaborate on AnyThing DARK 🎱
-- 📫 How to reach me insta/talhaticx
+🚀 I write Python like poetry, debug like Sherlock, and break things like it's a hobby.  
+⚡ React, Linux, and a little magic with SystemVerilog.  
+💾 Currently pretending to be productive at UET and actually doing cool stuff at Home. 
+🤖 My code compiles 50% of the time — every time.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=talhaticx&theme=dracula" />
-</a>
+> “Why fix a bug when you can blame the hardware?”
+
+<br>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=talhaticx&layout=compact&card_width=460&theme=dracula&langs_count=10" />
 </a>
